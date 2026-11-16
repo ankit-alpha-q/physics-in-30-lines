@@ -5,5 +5,6 @@ Tiny JavaScript sketches from the MahaDev YouTube channel's *Physics in 30 Lines
 | # | Episode | Demo | Code |
 |---|---|---|---|
 | 1 | Verlet integration: a tearable cloth | [live](https://ankit-alpha-q.github.io/physics-in-30-lines/cloth/) | [cloth.js](./cloth/cloth.js) |
+| 2 | Pendulums plus elastic collisions | [live](https://ankit-alpha-q.github.io/physics-in-30-lines/newtons-cradle/) | [newtons-cradle.js](./newtons-cradle/newtons-cradle.js) |
 
 MIT licensed.
