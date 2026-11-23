@@ -2,7 +2,7 @@ const canvas = document.querySelector('#scene');
 const ctx = canvas.getContext('2d');
 const W = canvas.width;
 const H = canvas.height;
-const L = 260, cx = W / 2, cy = H / 2 - 220;
+const L = 260, cx = W / 2, cy = H > W ? H / 2 - 220 : H / 2;
 const make = (d) => ({ a1: 2.2 + d, a2: 2.6, w1: 0, w2: 0, trail: [] });
 const pends = [0, 1, 2].map((k) => make(k * 0.001));
 const colors = ['#ff8a6b', '#9ece6a', '#7aa2f7'];
