@@ -11,5 +11,6 @@ Tiny JavaScript sketches from the MahaDev YouTube channel's *Physics in 30 Lines
 | 5 | What happens when one ball outweighs the rest | [live](https://ankit-alpha-q.github.io/physics-in-30-lines/heavy-cradle/) | [heavy-cradle.js](./heavy-cradle/heavy-cradle.js) |
 | 6 | Random bounces that always build a bell curve | [live](https://ankit-alpha-q.github.io/physics-in-30-lines/galton/) | [galton.js](./galton/galton.js) |
 | 7 | 24 pendulums, each a little faster than the last | [live](https://ankit-alpha-q.github.io/physics-in-30-lines/pendulum-wave/) | [pendulum-wave.js](./pendulum-wave/pendulum-wave.js) |
+| 8 | A perfect figure-eight orbit, then chaos | [live](https://ankit-alpha-q.github.io/physics-in-30-lines/three-body/) | [three-body.js](./three-body/three-body.js) |
 
 MIT licensed.
