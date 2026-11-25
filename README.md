@@ -10,5 +10,6 @@ Tiny JavaScript sketches from the MahaDev YouTube channel's *Physics in 30 Lines
 | 4 | Three pendulums, 0.001 apart, end up completely different | [live](https://ankit-alpha-q.github.io/physics-in-30-lines/double-pendulum/) | [double-pendulum.js](./double-pendulum/double-pendulum.js) |
 | 5 | What happens when one ball outweighs the rest | [live](https://ankit-alpha-q.github.io/physics-in-30-lines/heavy-cradle/) | [heavy-cradle.js](./heavy-cradle/heavy-cradle.js) |
 | 6 | Random bounces that always build a bell curve | [live](https://ankit-alpha-q.github.io/physics-in-30-lines/galton/) | [galton.js](./galton/galton.js) |
+| 7 | 24 pendulums, each a little faster than the last | [live](https://ankit-alpha-q.github.io/physics-in-30-lines/pendulum-wave/) | [pendulum-wave.js](./pendulum-wave/pendulum-wave.js) |
 
 MIT licensed.
